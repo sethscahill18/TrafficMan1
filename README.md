@@ -1,5 +1,5 @@
 # Traffic Management
-> Improving understanding of traffic to enhance performance
+> Improving understanding of traffic to enhance performance OR Understanding impacts of traffic flow to imporve performance
 
 This project aims to explore the impact of the road network, control signal programming and the behaviour of vehicles on traffic flow.  The creation and customisation of realistic simulations provides accurate information regarding traffic flow perforamce parameters. This information can be used to improve decision making with regard to increasing traffic flow efficiency.
 
