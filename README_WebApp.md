@@ -11,7 +11,9 @@ This project aims to create a method which allows road users to share their loca
 ## Developing
 
 Download the code associated with Web App, this consists of two javascript and one HTML script. Please refer to the scripts WebApp_functionality.js, WebApp_mat_setup.js and WebApp_UI.html in the repository.
+
 Open in the code editor which supports Javascript and HTML.
+
 To view the User Interface of the Web App simply run the html script.
 
 To activate the full functionality of the Web App an established Google firebase account is required. Firebase possesses features that enable the creation of a live Web App. The features nesscessary in this case are: user authenification, web hosting service and access to a real-time cloud database. The unique details corresponding to the created firebase account must be input to the HTML script under the section titled "Web app's Firebase configuration unique codes" this will connect the Web App to teh firebase features/services.
