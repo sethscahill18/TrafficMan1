@@ -1,5 +1,5 @@
 # Web Application
-> Permit a user to share their location in real-time with the traffic management system. 
+> Allow a user to share their location in real-time with the traffic management system. 
 
 This project aims to create a method which allows road users to share their location with a traffic management system throughout the journey. The Web App was created as a tool to faciliate this action. The Web App achieved this by performing the following functionality:
 1. Web App can be opened on any mobile device which possesses GPS capability.
