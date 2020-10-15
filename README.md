@@ -23,7 +23,7 @@ The functionality of the program is to simulate different traffic scenarios and 
 ## Configuration
 The user can change simple variable arguments to alter the input to the simulation. Through experimentation of these arguments the user can derive the affect on the traffic system performance. These arguments include: the total number of cars which will participate in the simulation (num_cars); the number of cars that will start in the system (num_initial_internal_cars); the time interval between a set of new cars entering the system (car_entry_interval_timer_limit); the number of cars in each set which enter the system (new_cars_per_interval) and the length of the time the simulation will run (time_limit). Changing the value of these arguments will alter the behaviour of the traffic in the system. 
 
-# Links
+# Further Information & Links
 
 In the repository of this project (https://github.com/sethscahill18/TrafficMan1) there are three scripts of code which simulate different traffic scenarios. The first of which, traffic_code_1.py, simulates a complex road network which consists of atypical junctions and layouts inspired from a street map of New York. This script demonstrates the high level of customisability of the road network afforded to the user by the program. This enables the user to assess the impact on traffic flow in different road networks. (basically allowing the user to design and simulate any road layout that they wish.)
 A video displaying the simulation created from this script can be found at the following link: https://www.youtube.com/watch?v=CfFbRqDhEjk
