@@ -7,8 +7,11 @@ This project aims to explore the impact of the road network, control signal prog
 ## Getting started
 
 Download the code for the simulation of your choice. 
+
 Open in a code editor which supports Python.
+
 Install necessary python packages as listed at the top of the python script.
+
 Execute the code to initiate the simulations and a graphic window will pop up displaying the vehicles in the road network.
 
 ## Developing
