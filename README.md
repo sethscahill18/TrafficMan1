@@ -2,7 +2,7 @@
 > Improving understanding of traffic to increase efficiency. performance OR Understanding impacts of traffic flow to improve.
 > Understanding the impact of traffic system variables on traffic flow. Variables in the traffic system to enhance traffic flow.
 
-This project aims to explore the impact of the road network, control signal programming and the behaviour of vehicles on traffic flow.  Through the creation and customisation of realistic simulations accurate information regarding can be derived traffic flow performance parameters. This information can be used to improve decision making aimed at increasing traffic flow efficiency.
+This project aims to explore the impact of the road network, control signal programming and the behaviour of vehicles on traffic flow.  Through the creation and customisation of realistic simulations accurate information regarding traffic flow performance parameters can be derived. This information can be used to improve decision making aimed at increasing traffic flow efficiency.
 
 ## Getting started
 
